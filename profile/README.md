@@ -1,14 +1,24 @@
 # The Crowd is going to go where the the Crowd is going to go
 
-Crowdliness is about making the best of living in an embarrassingly internetworked, massively social-network-of-social-networks, hybrid human-machie information-weighing marketplace of marketplaces.
+... so ***try not to supervise the data too much, okay?***
 
-There's plenty of room for argument, of course, but the Crowdliness point-of-view is inherently [positivist](https://en.wikipedia.org/wiki/Positivism) in its outlook.  
+Crowdliness is partly about [computational semiotics](https://en.wikipedia.org/wiki/Computational_semiotics) and [knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning). Thus, it's mostly also about making an effort to understand the crowd.
 
-It is a strictly a matter of thinking something like "Well, GOOD! That's the way it is. I am going to have any regrets; I am going to work harder at making the best of it."
+In other words, it is about making the best of living in some extremely exciting times ... as we move into an embarrassingly internetworked, massively social-network-of-social-networks, hybrid human-machie information-weighing marketplace of marketplaces.
 
-## Maybe "should" is a word that *SHOULD* be banished from human vocabulary 
+There's plenty of room for debate, of course, but the Crowdliness point-of-view is inherently [positivist](https://en.wikipedia.org/wiki/Positivism) in its outlook ... the stance is something like "Let's see if we can make this work." RATHER than to first resist change, to focus solely problems and to fight in some sort of quixotic campaign against shadows of windmills that remind of us of an evil opposing knight.   
 
-There is no room in Crowdliness for what the Crowd *should* do ... "should" is a word that *SHOULD* be banished from human vocabulary ... NOBODY can really control what the Crowd is going to do; it is probably even deeply immoral to suggest what anyone in the crowd *should* do ... it is best to assume that every other human being is going to do what that human being is going to -- the ONLY way to influence is WITHOUT advocating ANY form of coercion, including government-enforced policy but instead to work on an example of DISCIPLINE. 
+It is a strictly a matter of thinking something like "Well, okay. GOOD! That looks like it's the way it is. Regrets won't get us anywhere; let's work harder at making the best of it."
+
+## Maybe "should" is a word that *SHOULD* be banished from human vocabulary
+
+Crowdliness is primarily observational ... about looking at data and finding more ways to evaluate the data ... without imposing too many constraints or supervising the data too much ...  it more about [computational semiotics](https://en.wikipedia.org/wiki/Computational_semiotics) and [knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning) than it is about imposing any sort of economic modeling or optimization point of view.
+
+There is no room in Crowdliness for what the Crowd *should* do OR how the Crowd *should* react or *should* process the information.
+
+We do not know ***anything*** about how others *should* act; this is even worse, if our objectively is clouded by what our *experience* tells us ... we do not know ... "should" is a word that *SHOULD* be banished from human vocabulary.
+
+NOBODY can really control what the Crowd is going to do; it is probably even deeply immoral to suggest what anyone in the crowd *should* do ... it is best to assume that every other human being is going to do what that human being is going to -- the ONLY way to influence is WITHOUT advocating ANY form of coercion, including government-enforced policy but instead to work on an example of DISCIPLINE. 
 
 Crowdliness is therefore entirely anti-terrorism, anti-political, anti-celebrity ... and completely about personal DISCIPLINE and example.
 
