@@ -6,7 +6,7 @@ There's plenty of room for argument, of course, but the Crowdliness point-of-vie
 
 It is a strictly a matter of thinking something like "Well, GOOD! That's the way it is. I am going to have any regrets; I am going to work harder at making the best of it."
 
-## Why "should" is a word that *SHOULD* be banished from human vocabulary 
+## Maybe "should" is a word that *SHOULD* be banished from human vocabulary 
 
 There is no room in Crowdliness for what the Crowd *should* do ... "should" is a word that *SHOULD* be banished from human vocabulary ... NOBODY can really control what the Crowd is going to do; it is probably even deeply immoral to suggest what anyone in the crowd *should* do ... it is best to assume that every other human being is going to do what that human being is going to -- the ONLY way to influence is WITHOUT advocating ANY form of coercion, including government-enforced policy but instead to work on an example of DISCIPLINE. 
 
