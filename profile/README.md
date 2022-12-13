@@ -2,9 +2,11 @@
 
 ... so ***try not to supervise the data too much, okay?***
 
-Crowdliness is partly about [computational semiotics](https://en.wikipedia.org/wiki/Computational_semiotics) and [knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning). Thus, it's mostly also about making an effort to understand the crowd.
+Crowdliness is about markets in a macro sense ... it's about the study of how crowds and markets learn, weigh data and share information and perhaps build knowledge ... that means that we get into things like [computational semiotics](https://en.wikipedia.org/wiki/Computational_semiotics), [knowledge graphs for representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning) and maybe even some [graph theory](https://en.wikipedia.org/wiki/Graph_theory).
 
-In other words, it is about making the best of living in some extremely exciting times ... as we move into an embarrassingly internetworked, massively social-network-of-social-networks, hybrid human-machie information-weighing marketplace of marketplaces.
+It's mostly also about making an effort to understand how waves or quanta of information course through interconnected markets or the larger crowd.
+
+In other words, the economics of crowdliness is about making the best of living in some extremely exciting times ... as we move into an embarrassingly internetworked, massively social-network-of-social-networks, hybrid human-machie information-weighing marketplace of marketplaces.
 
 There's plenty of room for debate, of course, but the Crowdliness point-of-view is inherently [positivist](https://en.wikipedia.org/wiki/Positivism) in its outlook ... the stance is something like "Let's see if we can make this work." RATHER than to first resist change, to focus solely problems and to fight in some sort of quixotic campaign against shadows of windmills that remind of us of an evil opposing knight.   
 
