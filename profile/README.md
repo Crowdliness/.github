@@ -2,23 +2,23 @@
 
 ... so ***try not to supervise the data too much, okay?***
 
-Crowdliness is about markets in a macro sense ... it's about the study of how crowds and markets learn, weigh data and share information and perhaps build knowledge ... that means that we get into things like [computational semiotics](https://en.wikipedia.org/wiki/Computational_semiotics), [knowledge graphs for representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning) and maybe even some [graph theory](https://en.wikipedia.org/wiki/Graph_theory).
+Crowdliness is about things that attract interest, cause events to happen and lead markets to spring into existence in a macro sense ... it's about information, knowledge, innovation and the study of how crowds are initiated and then the accelerated negotiation that we find in auction, exchanges and secondary markets leads to people learning what works, seeking out data and through their attention, attendance, bidding and purchases convey information and generally lead to the building of productive knowledge.
 
-It's mostly also about making an effort to understand how waves or quanta of information course through interconnected markets or the larger crowd.
+The study of crowdliness is about the genesis of the microfoundations of microeconomics ... which means that analysis of the data takes into areas like [computational semiotics](https://en.wikipedia.org/wiki/Computational_semiotics), [knowledge graphs for representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning) and maybe even some mathematics underpinning [graph theory](https://en.wikipedia.org/wiki/Graph_theory).
 
-In other words, the economics of crowdliness is about making the best of living in some extremely exciting times ... as we move into an embarrassingly internetworked, massively social-network-of-social-networks, hybrid human-machie information-weighing marketplace of marketplaces.
+It's mostly also about making an effort to understand how waves or quanta of information course through interconnected markets and especially the part of the larger crowd comprised of shrewd, but early adopters, the key supporters who use the betas and possibly invest, refine or shape new innovations successfully.
 
-There's plenty of room for debate, of course, but the Crowdliness point-of-view is inherently [positivist](https://en.wikipedia.org/wiki/Positivism) in its outlook ... the stance is something like "Let's see if we can make this work." RATHER than to first resist change, to focus solely problems and to fight in some sort of quixotic campaign against shadows of windmills that remind of us of an evil opposing knight.   
+In other words, the economics of crowdliness is about making the very best of living in some extremely exciting times ... as we move into an embarrassingly internetworked, massively social-network-of-social-networks, hybrid human-machie information-weighing marketplace of marketplaces ... how can we experience life more creatively, more experimentally, more joyfully.
 
-It is a strictly a matter of thinking something like "Well, okay. GOOD! That looks like it's the way it is. Regrets won't get us anywhere; let's work harder at making the best of it."
+There's plenty of room for debate, of course, but the pro-Crowdliness point-of-view is inherently optimistic and [positivist](https://en.wikipedia.org/wiki/Positivism) in its outlook ... the stance is something like "Let's see if we can make this work." RATHER than to first think in terms of resisting change or focusing solely problems and to fight in some sort of quixotic campaign against shadows of windmills that remind of us of an evil opposing knight.   
+
+It is a strictly a matter of thinking something like "Well, okay, then. GOOD! That looks like it's the way it is, then!" 
 
 ## Maybe "should" is a word that *SHOULD* be banished from human vocabulary
 
-Crowdliness is primarily observational ... about looking at data and finding more ways to evaluate the data ... without imposing too many constraints or supervising the data too much ...  it more about [computational semiotics](https://en.wikipedia.org/wiki/Computational_semiotics) and [knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning) than it is about imposing any sort of economic modeling or optimization point of view.
+Regret or longing for the past is too heavy of a burden to carry ... as we examine the data of crowdliness, we should resist the urge to supervise the learning in the models ... let the structure of the data as it forms show us what the structure of the data is.
 
-There is no room in Crowdliness for what the Crowd *should* do OR how the Crowd *should* react or *should* process the information.
-
-We do not know ***anything*** about how others *should* act; this is even worse, if our objectively is clouded by what our *experience* tells us ... we do not know ... "should" is a word that *SHOULD* be banished from human vocabulary.
+Crowdliness is primarily observational; trying to better observe, to look at the horizon ahead, rather than to look in the rear view mirror ... about gathering data sources, wrangling data and finding better ways to evaluate the data ... without imposing too many constraints or supervising the data too much ...  it more about [computational semiotics](https://en.wikipedia.org/wiki/Computational_semiotics) and [knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning) than it is about imposing any sort of economic modeling or optimization point of view.
 
 NOBODY can really control what the Crowd is going to do; it is probably even deeply immoral to suggest what anyone in the crowd *should* do ... it is best to assume that every other human being is going to do what that human being is going to -- the ONLY way to influence is WITHOUT advocating ANY form of coercion, including government-enforced policy but instead to work on an example of DISCIPLINE. 
 
