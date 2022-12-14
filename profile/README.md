@@ -1,6 +1,6 @@
 # The Crowd is going to go where the the Crowd is going to go
 
-... so ***try not to supervise the data too much. Okay?***
+... so ***try not to supervise the data so much, okay ... Okay?***
 
 Crowdliness is about things that attract interest, cause events to happen and lead markets to spring into existence in a macro sense ... it's about information, knowledge, innovation and the study of how crowds are initiated and then the accelerated negotiation that we find in auction, exchanges and secondary markets leads to people learning what works, seeking out data and through their attention, attendance, bidding and purchases convey information and generally lead to the building of productive knowledge.
 
