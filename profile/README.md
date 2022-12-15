@@ -1,10 +1,16 @@
 # The Crowd is going to go where the the Crowd is going to go
 
-... so ***try not to supervise the data so much, okay ... Okay?***
+*The crowd is agnostic; your religion about what the crowd should do is your baggage. Assume less!* And, please ***try to avoid supervising the model or tweaking the data with any ideology, OKAY?!!***
 
-Crowdliness is about things that attract interest, cause events to happen and lead markets to spring into existence in a macro sense ... it's about information, knowledge, innovation and the study of how crowds are initiated and then the accelerated negotiation that we find in auction, exchanges and secondary markets leads to people learning how the new thing works, what revisions make it work a lot better, seeking out data on why somthing is trending ... and then through their attention, attendance, bidding, purchases, investments in related companies ... market participants generally convey incredibly useful information about the productivity of innovations and generally lead to accelerating the pace of development and the intensity of building of productive, ie return-generating, knowledge.
+Crowdliness is about things that purely attract interest, cause events to happen and lead crowds, trends, movements to spring into existence and then lead to auction, trade, exchanges, markets.
 
-The study of crowdliness is about the genesis of the microfoundations of microeconomics ... which means that analysis of the data takes into areas like [computational semiotics](https://en.wikipedia.org/wiki/Computational_semiotics), [knowledge graphs for representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning) and maybe even some mathematics underpinning [graph theory](https://en.wikipedia.org/wiki/Graph_theory).
+All markets convey information, but emergent new markets, even black markets and illicit trade are about what might be more important information or knowledge that preoccupies people. Innovation in things like free open source or free markets is the key subject of crowdliness.
+
+The study of how crowds are initiated and then the accelerated negotiation that we find in auction, exchanges and secondary markets leads to people learning how the new thing filled an important need, took off as product because too many people really needed something like that to work ... growth in crowdliness is about second, third, fourth, fifth and nth generation revisions which took away the problems and made the thing driving crowdliness work a lot better. 
+
+The study of crowdliness aims for something deeper than just gathering intelligence on why somthing is trending ... it's sort of about what causes people to put more skin in the game ... then through their attention, attendance, bidding, purchases, possibly investments or related accoutrement, the crowd establishes that something is "a thing" ... market participants generally convey incredibly useful information about the productivity of innovations and generally lead to accelerating the pace of development and the intensity of building of productive, ie return-generating, knowledge.
+
+The study of crowdliness is about the genesis of the precursor developments of the microfoundations of microeconomics ... which means that analysis of the data takes into areas like [computational semiotics](https://en.wikipedia.org/wiki/Computational_semiotics), [knowledge graphs for representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning) and maybe even some mathematics underpinning [graph theory](https://en.wikipedia.org/wiki/Graph_theory).
 
 It's mostly also about making an effort to understand how waves or quanta of information course through interconnected markets and especially the part of the larger crowd comprised of shrewd, but early adopters, the key supporters who use the betas and possibly invest, refine or shape new innovations successfully.
 
