@@ -16,7 +16,7 @@ ENORMOUS amounts of talent, money, management talent, promotions are spent on tr
 
 In order to make ourselves more useful, we need to LISTEN harder, better, faster to the crowd ... rather than waste much time trying to predict what the crowd will do -- those predictions of what the crowd is going to do really only matters for how we go about designing and implementing our listening processes. We need to be present where the crowd is going is going to be, listening on the frequency that the crowd is using.
 
-It's a big deal ... if you can somehow do something that improves the lives of every other human by just 1c per year ... and they share 1/10th of that improvement with you, it accrues to $8,000,0000 per year ... of course, it's generally better to not expect to ever get paid OR we might want to participate [with others, with organizations, with institutions] in those things which deliver a few pennies or few dollars worth of value to the masses every year.
+It's a big deal ... if you can somehow do something that improves the lives of every other human by just 1c per year ... and they share 1/10th of that improvement with you, it accrues to $8,000,0000 per year ... of course, that's only for the purposes of illustration. In general, it's generally going to work out far better to just be measurably and concretely productive, not not expect to ever get paid. The reward will materialize when we make ourselves productive.
 
 Tt's safe to say that MOST people are not helping the crowd in way that actually delivers that one penny's worth of improvement each year.
 
