@@ -1,25 +1,100 @@
-# Crowdliness Is A Matter Of Listening
+# Crowdsourced Content On Crowdliness
 
-Discerning where a crowd is going can feel like some sort of emergent alchemy ... of course, it's not exactly magic ... trying to understand the behavior of crowds is something that humans have been trying to do for at least 5,000 years or more ... the behavior in civilizations or where daily lives are more fixed in that each day tends to look like the day before, likely to be more bureaucratic and constrained because the crowd has opted for a civil solutions, rather than tribal existence in which the days are far from being predictable and tend to be pretty wild and out of control ... but even so, crowds or markets still follow trends or chase fads. Thus, the crowdliness of people in civil society can still *feel* at times like whatever governing preferences or choices is magic or almost like witchcraft or voodoo or driven by propaganda.
+The #IsItTrue [tweets on Crowdliness by @Crowdliness](https://twitter.com/Crowdliness) 
 
-But crowds are NOT actually propagandized to the degree that some worry about ... crowds still tend to move in more or less rational directions toward greater security, greater comfort, better foundations of productivity ... it's impossible to say who or what exactly is going to satisfy the crowd's urgent need, but the fact is that crowd is eventually going to go toward where the crowd is going to go.
+[Theses #1](#1). Markets are conversations. [Cluetrain Manifesto](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto#Theses_1%E2%80%936:_Markets_are_Conversations)
 
-***The crowd certainly can get fooled ... but the crowd will not stay fooled ... the crowd, like water, will eventually flow in the direction that is going to flow.***
-
-People who are *crowdly* in the same sense that others are shrewd about ways of the world or intelligent in a *worldly*, can sniff out when something is about to attract a crowd because the seemingly random, magic emergence of something with attributes of *crowdliness* is actually a matter of ditching the celebrites, but actually paying closer attention to the kinds of creative intelligence that's working like a fiend but is still out of favor ... those most intelligent, most creative types may eventually be made into *instant* celebrities, but the fact of the matter is that most *overnight successes* were doing two things, once: 1) First of all, they were working like manaical obscessed fiends in complete love with their art, their idea, but they felt like they were all alone AND 2) Secondly, and more importantly, they were one of a hundred or maybe one of a thousand of those were also manaically obscessed fiends working on a very similar obscession.
-
-Things about to exhibit crowdliness are motivated by an urge to deliver something that promises to get past the obstacles of the edgey new thing that the inventors are dreaming about ... people who are crowdly know that a fundamental requirement for success and timeliness of an idea is that there must be a huge pent-up demand for that magical thing that dreamers are talking about in nebulous terms, but has not quite been invented yet ... FB/Twitter, Google, Amazon, Linux, Apple, Microsoft are all examples of products that finally emerged many YEARS, even DECADES after the crowdly folk sort knew that world was looking for those products.
-
-ENORMOUS amounts of talent, money, management talent, promotions are spent on trying to herd the crowd toward a particular alternative. These resources are committed again and again and again because: 1) the prize is so huge, ie multiple trillions of dollars, whereas money spent on mktg, thought leadership content and evangelization is generally cheap for its impact; the cost of making promises is far less expensive than actually developing something that delivers on a promise that proves to be actually important; 2) the well-crafted, professional evangelization of a good story or a charismatic storyteller has been at least partially successful at every so slightly getting the early adopters in the crowd to consider an alternative and divert the crowd's trajectory; 3) getting *out and amongst'm* is a matter of better understanding the customer's use case; observability in an engaged, human-to-human sense helps when the organization is actually smart enough to feed this information back into development efforts. Money spent on marketing, PR, evangelization actually works when it is primarily about LISTENING to the crowd.
-
-# If we want to benefit from the crowd, we need to make ourselves more useful to the crowd.
-
-In order to make ourselves more useful, we need to LISTEN harder, better, faster to the crowd ... rather than waste much time trying to predict what the crowd will do -- those predictions of what the crowd is going to do really only matters for how we go about designing and implementing our listening processes. We need to be present where the crowd is going is going to be, listening on the frequency that the crowd is using.
-
-It's a big deal ... if you can somehow do something that improves the lives of every other human by just 1c per year ... and they share 1/10th of that improvement with you, it accrues to $8,000,0000 per year ... of course, that's only for the purposes of illustration. In general, it's generally going to work out far better to just be measurably and concretely productive, not not expect to ever get paid. The reward will materialize when we make ourselves productive.
-
-Tt's safe to say that MOST people are not helping the crowd in way that actually delivers that one penny's worth of improvement each year.
-
-If want to help the crowd or GENERALLY move things forward for a lot more people, particularly to benefit those at the bottom ... we need to better at understanding what the crowd might need ... first of all, that means LISTENING better ... helping others listen better ... ***to become more crowdly***.
-
-So our name, Crowdliness means that in this effort we try to work at engineering in better listening, better observabilit of humans ... developing better processes to understand what the crowd needs.  We will waste less of our time time trying to predict what the crowd will do ... although we might have to  try to predict how the crowd will change ... because we need to do in order to be more adept at listening. 
+2) Markets consist of human beings, not demographic sectors.
+Conversations among human beings sound human. They are conducted in a human voice.
+Whether delivering information, opinions, perspectives, dissenting arguments or humorous asides, the human voice is typically open, natural, uncontrived.
+People recognize each other as such from the sound of this voice.
+The Internet is enabling conversations among human beings that were simply not possible in the era of mass media.
+Hyperlinks subvert hierarchy.
+In both internetworked markets and among intranetworked employees, people are speaking to each other in a powerful new way.
+These networked conversations are enabling powerful new forms of social organization and knowledge exchange to emerge.
+As a result, markets are getting smarter, more informed, more organized. Participation in a networked market changes people fundamentally.
+People in networked markets have figured out that they get far better information and support from one another than from vendors. So much for corporate rhetoric about adding value to commoditized products.
+There are no secrets. The networked market knows more than companies do about their own products. And whether the news is good or bad, they tell everyone.
+What's happening to markets is also happening among employees. A metaphysical construct called "The Company" is the only thing standing between the two.
+Corporations do not speak in the same voice as these new networked conversations. To their intended online audiences, companies sound hollow, flat, literally inhuman.
+In just a few more years, the current homogenized "voice" of business — the sound of mission statements and brochures —will seem as contrived and artificial as the language of the 18th century French court.
+Already, companies that speak in the language of the pitch, the dog-and-pony show, are no longer speaking to anyone.
+Companies that assume online markets are the same markets that used to watch their ads on television are kidding themselves.
+Companies that don't realize their markets are now networked person-to-person, getting smarter as a result and deeply joined in conversation are missing their best opportunity.
+Companies can now communicate with their markets directly. If they blow it, it could be their last chance.
+Companies need to realize their markets are often laughing. At them.
+Companies need to lighten up and take themselves less seriously. They need to get a sense of humor.
+Getting a sense of humor does not mean putting some jokes on the corporate web site. Rather, it requires big values, a little humility, straight talk, and a genuine point of view.
+Companies attempting to "position" themselves need to take a position. Optimally, it should relate to something their market actually cares about.
+Bombastic boasts —"We are positioned to become the preeminent provider of XYZ" —do not constitute a position.
+Companies need to come down from their Ivory Towers and talk to the people with whom they hope to create relationships.
+Public Relations does not relate to the public. Companies are deeply afraid of their markets.
+By speaking in language that is distant, uninviting, arrogant, they build walls to keep markets at bay.
+Most marketing programs are based on the fear that the market might see what's really going on inside the company.
+Elvis said it best: "We can't go on together with suspicious minds."
+Brand loyalty is the corporate version of going steady, but the breakup is inevitable —and coming fast. Because they are networked, smart markets are able to renegotiate relationships with blinding speed.
+Networked markets can change suppliers overnight. Networked knowledge workers can change employers over lunch. Your own "downsizing initiatives" taught us to ask the question: "Loyalty? What's that?"
+Smart markets will find suppliers who speak their own language.
+Learning to speak with a human voice is not a parlor trick. It can't be "picked up" at some tony conference.
+To speak with a human voice, companies must share the concerns of their communities.
+But first, they must belong to a community.
+Companies must ask themselves where their corporate cultures end.
+If their cultures end before the community begins, they will have no market.
+Human communities are based on discourse — on human speech about human concerns.
+The community of discourse is the market.
+Companies that do not belong to a community of discourse will die.
+Companies make a religion of security, but this is largely a red herring. Most are protecting less against competitors than against their own market and workforce.
+As with networked markets, people are also talking to each other directly inside the company — and not just about rules and regulations, boardroom directives, bottom lines.
+Such conversations are taking place today on corporate intranets. But only when the conditions are right.
+Companies typically install intranets top-down to distribute HR policies and other corporate information that workers are doing their best to ignore.
+Intranets naturally tend to route around boredom. The best are built bottom-up by engaged individuals cooperating to construct something far more valuable: an intranetworked corporate conversation.
+A healthy intranet organizes workers in many meanings of the word. Its effect is more radical than the agenda of any union.
+While this scares companies witless, they also depend heavily on open intranets to generate and share critical knowledge. They need to resist the urge to "improve" or control these networked conversations.
+When corporate intranets are not constrained by fear and legalistic rules, the type of conversation they encourage sounds remarkably like the conversation of the networked marketplace.
+Org charts worked in an older economy where plans could be fully understood from atop steep management pyramids and detailed work orders could be handed down from on high.
+Today, the org chart is hyperlinked, not hierarchical. Respect for hands-on knowledge wins over respect for abstract authority.
+Command-and-control management styles both derive from and reinforce bureaucracy, power tripping and an overall culture of paranoia.
+Paranoia kills conversation. That's its point. But lack of open conversation kills companies.
+There are two conversations going on. One inside the company. One with the market.
+In most cases, neither conversation is going very well. Almost invariably, the cause of failure can be traced to obsolete notions of command and control.
+As policy, these notions are poisonous. As tools, they are broken. Command and control are met with hostility by intranetworked knowledge workers and generate distrust in internetworked markets.
+These two conversations want to talk to each other. They are speaking the same language. They recognize each other's voices.
+Smart companies will get out of the way and help the inevitable to happen sooner.
+If willingness to get out of the way is taken as a measure of IQ, then very few companies have yet wised up.
+However subliminally at the moment, millions of people now online perceive companies as little more than quaint legal fictions that are actively preventing these conversations from intersecting.
+This is suicidal. Markets want to talk to companies.
+Sadly, the part of the company a networked market wants to talk to is usually hidden behind a smokescreen of hucksterism, of language that rings false — and often is.
+Markets do not want to talk to flacks and hucksters. They want to participate in the conversations going on behind the corporate firewall.
+De-cloaking, getting personal: We are those markets. We want to talk to you.
+We want access to your corporate information, to your plans and strategies, your best thinking, your genuine knowledge. We will not settle for the 4-color brochure, for web sites chock-a-block with eye candy but lacking any substance.
+We're also the workers who make your companies go. We want to talk to customers directly in our own voices, not in platitudes written into a script.
+As markets, as workers, both of us are sick to death of getting our information by remote control. Why do we need faceless annual reports and third-hand market research studies to introduce us to each other?
+As markets, as workers, we wonder why you're not listening. You seem to be speaking a different language.
+The inflated self-important jargon you sling around —in the press, at your conferences —what's that got to do with us?
+Maybe you're impressing your investors. Maybe you're impressing Wall Street. You're not impressing us.
+If you don't impress us, your investors are going to take a bath. Don't they understand this? If they did, they wouldn't let you talk that way.
+Your tired notions of "the market" make our eyes glaze over. We don't recognize ourselves in your projections —perhaps because we know we're already elsewhere.
+We like this new marketplace much better. In fact, we are creating it.
+You're invited, but it's our world. Take your shoes off at the door. If you want to barter with us, get down off that camel!
+We are immune to advertising. Just forget it.
+If you want us to talk to you, tell us something. Make it something interesting for a change.
+We've got some ideas for you too: some new tools we need, some better service. Stuff we'd be willing to pay for. Got a minute?
+You're too busy "doing business" to answer our email? Oh gosh, sorry, gee, we'll come back later. Maybe.
+You want us to pay? We want you to pay attention.
+We want you to drop your trip, come out of your neurotic self-involvement, join the party.
+Don't worry, you can still make money. That is, as long as it's not the only thing on your mind.
+Have you noticed that, in itself, money is kind of one-dimensional and boring? What else can we talk about?
+Your product broke. Why? We'd like to ask the guy who made it. Your corporate strategy makes no sense. We'd like to have a chat with your CEO. What do you mean she's not in?
+Research in the field of medicine. Now it is easy to buy viagra online for men.
+We know some people from your company. They're pretty cool online. Do you have any more like that you're hiding? Can they come out and play?
+When we have questions we turn to each other for answers. If you didn't have such a tight rein on "your people" maybe they'd be among the people we'd turn to.
+When we're not busy being your "target market," many of us are your people. We'd rather be talking to friends online than watching the clock. That would get your name around better than your entire million dollar web site. But you tell us speaking to the market is Marketing's job.
+We'd like it if you got what's going on here. That'd be real nice. But it would be a big mistake to think we're holding our breath.
+We have better things to do than worry about whether you'll change in time to get our business. Business is only a part of our lives. It seems to be all of yours. Think about it: who needs whom?
+We have real power and we know it. If you don't quite see the light, some other outfit will come along that's more attentive, more interesting, more fun to play with.
+Even at its worst, our newfound conversation is more interesting than most trade shows, more entertaining than any TV sitcom, and certainly more true-to-life than the corporate web sites we've been seeing.
+Our allegiance is to ourselves — our friends, our new allies and acquaintances, even our sparring partners. Companies that have no part in this world, also have no future.
+Companies are spending billions of dollars on Y2K. Why can't they hear this market timebomb ticking? The stakes are even higher.
+We're both inside companies and outside them. The boundaries that separate our conversations look like the Berlin Wall today, but they're really just an annoyance. We know they're coming down. We're going to work from both sides to take them down.
+To traditional corporations, networked conversations may appear confused, may sound confusing. But we are organizing faster than they are. We have better tools, more new ideas, no rules to slow us down.
+We are waking up and linking to each other. We are watching. But we are not waiting.
