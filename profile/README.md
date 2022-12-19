@@ -2,7 +2,10 @@
 
 The **#IsItTrue** [polls on the topic of Crowdliness, as tweeted by @Crowdliness](https://twitter.com/Crowdliness) with the "***Yes! Here's why it's so ↓***" and ***No! Here's why it's not ↓***" responses in the comments.
 
-[Theses #1](#1). [Markets are conversations.](https://twitter.com/crowdliness/status/1604861827028066304) [**Cluetrain Manifesto** Theses 1–6: Markets are Conversations](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto#Theses_1%E2%80%936:_Markets_are_Conversations)
+Crowds sometimes get it wrong ... perhaps it is a matter of good intentions or something that the crowd desperately wants to hold true. However, we kinda have to believe that anything that strays far from the truth as the truth really is actually is dangerous ... ... that's especially true of economic or market truths or when we are referring to some behavior that crowd of humanity exhibits ... we cannot really avoid how crowds affect us ... sometimes the most tired old cliches that we sick of hearing actually are true, eg no man is an island. We study crowds for a reason.
+
+
+[Theses #1](#1). [Markets are conversations.](https://twitter.com/crowdliness/status/1604861827028066304) [**Cluetrain Manifesto** Theses 1–6: Markets are Conversations](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto#Theses_1%E2%80%936:_Markets_are_Conversations). Maybe, but probably not true. Markets are far, far more than phatic conversation, chit chat in bar or any sort of gossip or speculative banter. Markets are more than serious conversations, because, even in small transactions, actual $ changes hands between buyers and sellers ... and there are bidders and others on the sideline listening intently, because they too have serious skin in the game, so it's not as if those listening in are just listening to banter about the Super Bowl, idle chatter or idiotic gossip. Most conversations are quitely simply just hot air, ie never as important as what is happening in a market.
 
 [Theses #2](#2).  Markets consist of human beings, not demographic sectors. [**Cluetrain Manifesto** Theses 1–6: Markets are Conversations](https://en.wikipedia.org/wiki/The_Cluetrain_Manifesto#Theses_1%E2%80%936:_Markets_are_Conversations)
 
@@ -336,3 +339,10 @@ c. Being together: the cause of and solution to every problem.
 119The gravity of connection is love.
 120Long live the open Internet.
 121Long may we have our Internet to love.
+
+We will also include quoteworthy utterances from sources that we come across ... some things sound good, uplifting and may tell us what we would like to believe -- but are just not quite true. 
+https://twitter.com/NavalismHQ https://twitter.com/NavalBot https://twitter.com/naval
+
+https://twitter.com/ProfFeynman
+
+https://twitter.com/Marcus_Quote or https://twitter.com/BotPhilosophyQ or https://twitter.com/WisdomQuotesBot
