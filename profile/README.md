@@ -26,9 +26,9 @@ If you want to LEARN to read the crowd, then you can't be misled by current cont
 
 You would be better off if you took control of your AI and actually started using it to deliver better content, partly by using what has been written and discussed over and over and over in the last 2500 years or so ... the Classics will serve you much better than anything that you will read in the news media ... you are better off looking at sufficiently old *bestsellers* that were exhaustively studied in their day, especially valuable might be the Classics or the timeless ancient wisdom from sacred texts ... ANY time spent worrying about what might be trending in the news is worse than merely useless -- content now is engineered and studied to draw lowest-common-denominator consumers with clickbait that makes people feel needy or anxious about culture, politics, their fellow humans ... stop being a sucker ... read the Classics, go at least a couple decades back to see how predictions and prognostications play out. 
 
-**This is why we curate and annotate lists of old content. **
+**This is WHY we curate and annotate [lists of old content](../main/lists/IsItTrue.md). **
 
-With an ice-cold perspective ... and by re-reading our own annoations ... we can take our emotions of the equation ... and we can see how successful our forebearers were at reading the crowds of their day ... and we start to understand something about successfully using crowdliness. 
+By re-reading our own annoations ... we can reflect, re-calibrate our thinking and possibly get close to taking our emotions of the equation ... and we can see how successful our forebearers were at reading the crowds of their day ... and we start to understand something about successfully using crowdliness. 
 
 Not that much has changed. The most recent stuff that we look at is at least a decade old ... but that's enough time that we can ask #IsItTrue?
 
