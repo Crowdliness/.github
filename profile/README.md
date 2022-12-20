@@ -26,10 +26,10 @@ If you want to LEARN to read the crowd, then you can't be misled by current cont
 
 You would be better off if you took control of your AI and actually started using it to deliver better content, partly by using what has been written and discussed over and over and over in the last 2500 years or so ... the Classics will serve you much better than anything that you will read in the news media ... you are better off looking at sufficiently old *bestsellers* that were exhaustively studied in their day, especially valuable might be the Classics or the timeless ancient wisdom from sacred texts ... ANY time spent worrying about what might be trending in the news is worse than merely useless -- content now is engineered and studied to draw lowest-common-denominator consumers with clickbait that makes people feel needy or anxious about culture, politics, their fellow humans ... stop being a sucker ... read the Classics, go at least a couple decades back to see how predictions and prognostications play out. 
 
-### Perspective is WHY we bother curating and annotating [lists of old content](../lists/)
+### Perspective is WHY we bother curating and annotating [lists of old content](../main/lists/)
 
 It's unlikely that anyone else reads our notes ... that does not matter; we annotate primarily for ourselves -- by re-reading and re-revising our own annoations from prior reading ... *the work can go COLD* ... given the benefit of something going COLD, we get to reflect, re-calibrate our thinking and possibly get just a bit closer to be able to take our emotions of the equation ... and we can see how successful our forebearers were at reading the crowds of their day ... and we start to understand something about successfully using crowdliness. 
 
-Not that much has changed. The most recent stuff that we look at is at least a decade old ... but that's enough time that we can ask [is that true](../lists/IsItTrue.md)?
+Not that much has changed. The most recent stuff that we look at is at least a decade old ... but that's enough time that we can ask [is that true](../main/lists/IsItTrue.md)?
 
 
