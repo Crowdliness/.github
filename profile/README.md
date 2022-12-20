@@ -30,6 +30,6 @@ You would be better off if you took control of your AI and actually started usin
 
 It's unlikely that anyone else reads our notes ... that does not matter; we annotate primarily for ourselves -- by re-reading and re-revising our own annoations from prior reading ... *the work can go COLD* ... given the benefit of something going COLD, we get to reflect, re-calibrate our thinking and possibly get just a bit closer to be able to take our emotions of the equation ... and we can see how successful our forebearers were at reading the crowds of their day ... and we start to understand something about successfully using crowdliness. 
 
-Not that much has changed. The most recent stuff that we look at is at least a decade old ... but that's enough time that we can ask [is that true?](../lists/IsItTrue.md)?
+Not that much has changed. The most recent stuff that we look at is at least a decade old ... but that's enough time that we can ask [is that true](../lists/IsItTrue.md)?
 
 
