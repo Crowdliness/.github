@@ -8,4 +8,4 @@ To survey the general field ... we search ... read a bunch ... search a lot more
 
 [Arxiv preprints on 'Neuroscience' AND 'Cognitive Psychology'](https://arxiv.org/search/?query=Neuroscience+%22Cognitive+Psychology%22&searchtype=all&source=header)
 
-[GitHub repositories on 'Neuroscience' AND 'Cognitive Psychology'](https://github.com/search?q=Neuroscience+%22Cognitive+Psychology%22)
+We could look at [labeled repositories](https://github.com/search?q=Neuroscience+%22Cognitive+Psychology%22), but we probably prefer looking at [different Github repository Issue discussions which the search indicates have topics which pertain to 'Neuroscience' AND 'Cognitive Psychology'](https://github.com/search?q=Neuroscience+%22Cognitive+Psychology%22&type=issues)
