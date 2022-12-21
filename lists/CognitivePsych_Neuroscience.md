@@ -1,4 +1,4 @@
-To survey the general field ... we search ... read a bunch ... search a lot more ... read A WHOLE FUCKUVA LOT more ... *and probably use something like Wikipedia a lot to look up jargon and get the layman's take on the kinds of pompous terminological bullshit typically found little academic backwaters and cul-de-sacs.*
+To survey the general field ... we search ... read a bunch ... search a lot more ... read A WHOLE FUCKUVA LOT more ... *and probably fall back on using something like Wikipedia a lot to parse the jargon and get the layman's take on the kinds of pompous terminological bullshit typically found little academic backwaters and cul-de-sacs.*
 
 [The PubMed full free text articles on 'Neuroscience' AND 'Cognitive Psychology'](https://pubmed.ncbi.nlm.nih.gov/?term=Neuroscience+%22Cognitive+Psychology%22&filter=simsearch2.ffrft)
 
