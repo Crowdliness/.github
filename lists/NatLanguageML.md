@@ -10,25 +10,10 @@ Before we get too carried away with how much more can be accomplished today than
 
 **In order to efficiently, effectively and rapidly scale, it is imperative to understand the fundamentals better ... or else, we end up automating a complete shitstorm that is impossible to clean up.**
 
-Thus we start off by revisiting [O'Reilly's collection on Natural Language Processing](https://learning.oreilly.com/topics/natural-language-processing/) and [Jon Krohn](https://github.com/jonkrohn)'s [Expert Playlist on Machine Learning](https://learning.oreilly.com/playlists/a40ea8fe-994d-4370-8b29-0d6c0f519a89/) ... this can rapidly take us into the overwhelming task of attempting to stay somewhat current reading and trying out hundreds of different proven Transformer and Diffuser models [and variations on those models] that we can find on Hugging Face Hub and in other corners of the interwebs. 
-
-
-## NLTK / The Python development community
-1. Language Processing and Python
-2. Accessing Text Corpora and Lexical Resources
-3. Processing Raw Text
-4. Writing Structured Programs
-5. Categorizing and Tagging Words
-6. Learning to Classify Text
-7. Extracting Information from Text
-8. Analyzing Sentence Structure
-9. Building Feature Based Grammars
-10. Analyzing the Meaning of Sentences 
-11. Managing Linguistic Data
-12. The Evolving Language Challenge
+Thus we start off by revisiting [O'Reilly's collection on Natural Language Processing](https://learning.oreilly.com/topics/natural-language-processing/) and [Jon Krohn](https://github.com/jonkrohn)'s [Expert Playlist on Machine Learning](https://learning.oreilly.com/playlists/a40ea8fe-994d-4370-8b29-0d6c0f519a89/) ... this can rapidly take us into the overwhelming task of attempting to stay somewhat current reading and trying out hundreds of different proven Transformer and Diffuser models [and variations on those models] that we can find on Hugging Face Hub and in other corners of the interwebs ... as we understand, we can automate and improve the lower level execution, but it still helps us if we think of a general roadmap for studying semiotics and computational linguistics to better understand cognitive neuroscience of human crowds.  
 
 ## Phonology and Morphology
-Computational approaches to the study of sound patterns and word structures typically use a finite state toolkit. Phenomena such as suppletion and non-concatenative morphology are difficult to address using the string processing methods we have been studying. The technical challenge is not only to link NLTK to a high-performance finite state toolkit, but to avoid duplication of lexical data and to link the morphosyntactic features needed by morph analyzers and syntactic parsers.
+*How does the CROWD process information?* OR *How can we better achieve our objectives in knowledge engineering by using the constantly-learning crowd to more effectively process information?* We start by understanding the fundmentals of very fundamental stuff ... getting to very first principles of what underlies our assumptions when we analyze things from a *ab initio* or first principles approach. Computational approaches to the study of sound patterns and word structures typically use a finite state toolkit. Phenomena such as suppletion and non-concatenative morphology are difficult to address using the string processing methods we have been studying. The technical challenge is not only to link NLTK to a high-performance finite state toolkit, but to avoid duplication of lexical data and to link the morphosyntactic features needed by morph analyzers and syntactic parsers.
 
 ## Lexical Semantics
 This is a vibrant area of current research, encompassing inheritance models of the lexicon, ontologies, multiword expressions, etc, mostly outside the scope of NLTK as it stands. A conservative goal would be to access lexical information from rich external stores in support of tasks in word sense disambiguation, parsing, and semantic interpretation.
@@ -46,4 +31,19 @@ Improved support for NLP in languages other than English could involve work in t
 Many of NLTK's core components were contributed by members of the NLP community, and were initially housed in NLTK's "Contrib" package, nltk_contrib. The only requirement for software to be added to this package is that it must be written in Python, relevant to NLP, and given the same open source license as the rest of NLTK. Imperfect software is welcome, and will probably be improved over time by other members of the NLP community.
 
 ## Teaching Materials
- 	Since the earliest days of NLTK development, teaching materials have accompanied the software, materials that have gradually expanded to fill this book, plus a substantial quantity of online materials as well. We hope that instructors who supplement these materials with presentation slides, problem sets, solution sets, and more detailed treatments of the topics we have covered, will make them available, and will notify the authors so we can link them from http://nltk.org/. Of particular value are materials that help NLP become a mainstream course in the undergraduate programs of computer science and linguistics departments, or that make NLP accessible at the secondary level where there is significant scope for including computational content in the language, literature, computer science, and information technology curricula.
+Since the earliest days of NLTK development, teaching materials have accompanied the software, materials that have gradually expanded to fill this book, plus a substantial quantity of online materials as well. We hope that instructors who supplement these materials with presentation slides, problem sets, solution sets, and more detailed treatments of the topics we have covered, will make them available, and will notify the authors so we can link them from http://nltk.org/. Of particular value are materials that help NLP become a mainstream course in the undergraduate programs of computer science and linguistics departments, or that make NLP accessible at the secondary level where there is significant scope for including computational content in the language, literature, computer science, and information technology curricula.
+
+
+## Open Source Basics and The Python Development Community
+1. Language Processing, Document Utilities and Python
+2. Accessing Text Corpora, Wrangling Lexical Resources
+3. Processing Raw Semiotics, At The Edge
+4. Structured Programs, Structures of Structures, Managing MLops Workflow
+5. Categorizing and Tagging Words, Semiotics, Images, Sounds, Smells
+6. Learning to Classify, Tokenization
+7. Vectorization, Extracting Basic Information
+8. Analyzing Structure, Context, Meaning
+9. Improving Feature-Based Models, Grammars, Idioms
+10. Analyzing Context, Double Entendre, Misunderstandings 
+11. Managing Linguistic Data and MLops Pipelines
+12. The Rapidly Evolving Model Space 
