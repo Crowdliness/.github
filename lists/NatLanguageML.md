@@ -2,7 +2,7 @@ We start off with [O'Reilly's collection on Natural Language Processing](https:/
 
 **NLP is now something for mountains of GPUs and ML accelerators and new frontiers in BigCompute**
 
-Before we get too carried away with how much more can be accomplished today than a year ago with GPUs and better memory bandwidth architectures, it might be best to actually go back to the FUNDAMENTALS of FUNDAMENTALS approach ... and look at how we initially wrangle the data and perform some of the most basic NLP computational assignments with the Natural Language ToolKit (NLTK) in Python ... we can also look at how the NLTK came into being and then evolved.
+Before we get too carried away with how much more can be accomplished today than a year ago with GPUs and better memory bandwidth architectures, it might be best to actually go back to the FUNDAMENTALS of FUNDAMENTALS approach ... and look at how we initially wrangle the data and perform some of the most basic NLP computational assignments with the Natural Language ToolKit (NLTK) in Python ... we can also look at how the NLTK came into being and then evolved ... and, by the way, things like NumPy or even the standard library in Python have certainly not stopped evolving, eg Python's not all THAT slow any more, like it was way back in 2022 before [the stable release of Python **3.11**](https://www.python.org/downloads/release/python-3110/) started being used.
 
 ## NLTK / The NTLK development community
 1. Language Processing and Python
